@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PatSpinner</string>
+    <string name="textviewState">States in Nigeria</string>
+    <string name="textviewLocal">Local Govt In Akwa Ibom State</string>
+</resources>
